@@ -9,6 +9,4 @@ public class WorkshopmongoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(WorkshopmongoApplication.class, args);
 	}
-
-	
 }
