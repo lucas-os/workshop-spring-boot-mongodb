@@ -12,7 +12,7 @@ import com.los.workshopmongo.domain.Post;
 import com.los.workshopmongo.services.PostService;
 
 @RestController
-@RequestMapping(value="/users")
+@RequestMapping(value="/posts")
 public class PostResource {
 	
 	@Autowired
